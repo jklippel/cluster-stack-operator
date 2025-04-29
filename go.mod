@@ -1,8 +1,6 @@
 module github.com/SovereignCloudStack/cluster-stack-operator
 
-go 1.22.0
-
-toolchain go1.23.5
+go 1.24.2
 
 require (
 	github.com/go-logr/logr v1.4.2
